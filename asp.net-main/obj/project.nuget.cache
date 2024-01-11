@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Slw/kbo2yW5GnbnE61lBlXfDHcYgWqvBYq5qHwp7i0qulhECEi4IYwXV8b6EizlTg1SdKQf5HekYCq9og0qwVA==",
+  "success": true,
+  "projectFilePath": "D:\\УЧЕБА\\1 Розробка web-застосунків на базі ASP.NET\\LR4\\asp.net-main\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\inifileparserdotnetcore\\2.5.2\\inifileparserdotnetcore.2.5.2.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.configuration.ini\\7.0.0\\microsoft.extensions.configuration.ini.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\Sir BigBoy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
